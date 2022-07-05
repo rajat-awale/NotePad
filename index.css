@@ -1,0 +1,45 @@
+.inputcard{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 60%;
+}
+
+.card{
+    margin-top: 20px;
+}
+
+hr{
+    color: rgb(105, 105, 105);
+}
+
+.cardid
+{
+    width: 25%;
+    border: solid;
+    border-width: 1px;
+    border-radius: 2px;
+    padding: 20px;
+    word-wrap: break-word;
+}
+
+
+.list li{
+    list-style: none;
+    float: left;
+    margin: 4%;
+}
+
+#cardheading{
+    font-size: medium;
+}
+
+#cardbtn{
+    background-color: #0d6efd;
+    border-width: 0ch;
+    border-radius: 5px;
+    color: white;
+    padding: 8px;
+    font-size: small;
+
+}
